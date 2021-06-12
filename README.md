@@ -4,7 +4,7 @@
 + Looking for part-time work in course design, computer programming, and/or teaching
 + Learning GitHub for California Community College Goals and Objectives 
 
-- 📫 Email mmoore1@vcccd.edu.
+📫 Email mmoore1@vcccd.edu.
 
 <!---
 VCPirateCode/VCPirateCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
