@@ -1,4 +1,4 @@
-###@VCPirateCode
+@VCPirateCode
 
 + Currently an Instructional Designer at Ventura College
 + Looking for part-time work in course design, computer programming, and/or teaching
