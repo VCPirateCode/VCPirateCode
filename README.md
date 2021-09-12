@@ -12,8 +12,14 @@ Contact:
 
 🕸️ www.absolutelylearning.com
 
+[Absolutely Learning](http://www.absolutelylearning.com) 
+
 Distance Education Summit on Git Hub: https://vcpiratecode.github.io/website/ 
+[Distance Education Summit at Ventura College 2022](https://vcpiratecode.github.io/website/)
+
+Baltimore Out. 
+
 <!---
 VCPirateCode/VCPirateCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
