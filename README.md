@@ -10,9 +10,11 @@ Contact:
 
 ☎️ 760-271-3297
 
-[Absolutely Learning](http://www.absolutelylearning.com) 
+Sample Portfolio:
 
-[Distance Education Summit at Ventura College 2022](https://vcpiratecode.github.io/dwtestMoore/)
+* [Absolutely Learning](http://www.absolutelylearning.com) 
+
+* [Distance Education Summit at Ventura College 2022](https://vcpiratecode.github.io/dwtestMoore/)
 
 Baltimore Out. 
 
