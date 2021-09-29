@@ -16,9 +16,9 @@ Sample Portfolio:
 
 * [Distance Education Summit at Ventura College 2022](https://vcpiratecode.github.io/dwtestMoore/)
 
-Baltimore Out. I like Baltimore. Updated September '21
+* [Twitter](http://www.mattmoore.net) 
 
 <!---
 VCPirateCode/VCPirateCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----
+--->
