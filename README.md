@@ -5,11 +5,11 @@
 + Learning GitHub for California Community College Goals and Objectives 
 
 Contact:
+<pre>
+📫. Email mmoore1@vcccd.edu
 
-📫  Email mmoore1@vcccd.edu
-
-☎️  760-271-3297
-
+☎️. 760-271-3297
+</pre>
 Test Portfolio Links:
 
 * [Absolutely Learning](http://www.absolutelylearning.com) 
