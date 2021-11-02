@@ -6,9 +6,9 @@
 
 Contact:
 <pre>
-📫. Email mmoore1@vcccd.edu
+📫. Email: mmoore1@vcccd.edu
 
-☎️. 760-271-3297
+☎️. Telephone: 760-271-3297
 </pre>
 Test Portfolio Links:
 
