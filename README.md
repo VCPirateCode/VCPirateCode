@@ -14,7 +14,7 @@ Test Portfolio Links:
 
 * [Absolutely Learning](http://www.absolutelylearning.com) 
 
-* [Distance Education Summit at Ventura College 2022](https://vcpiratecode.github.io/dwtestMoore/)
+* [Distance Education Summit at Ventura College 2022 - Test](https://vcpiratecode.github.io/dwtestMoore/)
 
 * [Twitter](http://www.mattmoore.net) 
 
