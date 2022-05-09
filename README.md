@@ -1,9 +1,9 @@
 @VCPirateCode
 
 + Currently an Instructional Designer at Ventura College
-+ Looking for part-time work in course design, computer programming, and/or teaching
++ Looking for part-time work in computer programming
 + Learning GitHub for California Community College Goals and Objectives 
-+ Promoting Local Ventura College Events
++ will work for Jazz Music ( at first )
 
 Contact:
 <pre>
