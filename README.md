@@ -1,9 +1,7 @@
 @VCPirateCode
 
-+ Currently an Instructional Designer at Ventura College
-+ Looking for part-time work in computer programming
++ Currently an Instructional Technologist Designer at Ventura College
 + Learning GitHub for California Community College Goals and Objectives 
-+ will work for Jazz Music
 
 Contact:
 <pre>
