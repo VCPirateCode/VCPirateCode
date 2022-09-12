@@ -3,7 +3,7 @@
 + Currently an Instructional Designer at Ventura College
 + Looking for part-time work in computer programming
 + Learning GitHub for California Community College Goals and Objectives 
-+ will work for Jazz Music ( at first )
++ will work for Jazz Music
 
 Contact:
 <pre>
