@@ -6,6 +6,7 @@
 Contact:
 <pre>
 📫. Email: mmoore1@vcccd.edu
+📫. Secondary Email: matt@mattmoore.net
 
 ☎️. Telephone: 760-271-3297
 </pre>
