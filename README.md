@@ -13,7 +13,7 @@ Test Portfolio Links:
 
 * [Absolutely Learning](http://www.absolutelylearning.com) 
 
-* [Twitter](http://www.mattmoore.net) 
+* [Matt's Site](http://www.mattmoore.net) 
 
 <!---
 VCPirateCode/VCPirateCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
