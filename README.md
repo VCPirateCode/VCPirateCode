@@ -10,9 +10,7 @@ Contact:
 
 ☎️. Telephone: 760-271-3297
 </pre>
-Test Portfolio Links:
-
-* [Absolutely Learning](http://www.absolutelylearning.com) 
+Test Portfolio Link:
 
 * [Matt's Site](http://www.mattmoore.net) 
 
